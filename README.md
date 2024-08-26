@@ -40,7 +40,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🌍 Connect with Me
 
-- [LinkedIn][(Your LinkedIn URL)](https://www.linkedin.com/in/med-amine-benomar/)
+- [LinkedIn][(My LinkedIn URL)](https://www.linkedin.com/in/med-amine-benomar/)
 - [Portfolio] coming soon!
 
 ---
