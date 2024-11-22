@@ -24,4 +24,7 @@ Welcome to my GitHub profile! I'm a Fullstack Engineer with a passion for turnin
 ---
 [![](https://visitcount.itsvg.in/api?id=Aminben2&icon=1&color=6)](https://visitcount.itsvg.in)
 
+
+[![mbenomar's 42 stats](https://badge.mediaplus.ma/greenbinary/mbenomar)](https://github.com/oakoudad/badge42)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
