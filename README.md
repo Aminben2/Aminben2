@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub profile! I'm a Fullstack Engineer with a passion for turning complex problems into elegant solutions. My expertise spans across various technologies, and I am committed to continuous learning and improving my craft.
+Full Stack Developer passionate about creating dynamic, scalable web applications. Skilled in front-end and back-end technologies, I excel in collaboration, problem-solving, and adapting to new tools. Committed to delivering high-quality, innovative solutions in fast-paced environments.
 
 
 ## 🌐 Socials:
