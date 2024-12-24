@@ -24,9 +24,6 @@ Full Stack Developer passionate about creating dynamic, scalable web application
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-# 42 Profile:
-[![mbenomar's 42 stats](https://badge.mediaplus.ma/greenbinary/mbenomar)](https://profile.intra.42.fr/users/mbenomar)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aminben2&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminben2&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
