@@ -28,9 +28,6 @@ Full Stack Developer passionate about creating dynamic, scalable web application
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aminben2&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminben2&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aminben2&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aminben2&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
